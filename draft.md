@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+* [A note about a bug in irr::kripp.alpha()](https://chainsawriot.com/postmannheim/2024/10/25/krippendoff.html)
 
 ### R in Organizations
 
