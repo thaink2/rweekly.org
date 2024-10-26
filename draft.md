@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Python for R users](https://blog.stephenturner.us/p/python-for-r-users)
 
 + [Exploratory Data Analysis: Will PCE Data Push Bitcoin?](https://datageeek.com/2024/10/07/exploratory-data-analysis-will-pce-data-push-bitcoin/)
 
