@@ -18,9 +18,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+
 + [Postprocessing is coming to tidymodels](https://www.tidyverse.org/blog/2024/10/postprocessing-preview/)
 
 + [Uncovering Unknowns: Data in Investigative Journalism](https://katharinabrunner.de/2024/10/uncovering-unknowns-data-in-investigative-journalism/)
+
++ [Winners of the 2024 Shiny Contest](https://posit.co/blog/winners-of-the-2024-shiny-contest/)
+
++ [Python for R users](https://blog.stephenturner.us/p/python-for-r-users)
+
 
 + [Exploratory Data Analysis: Will PCE Data Push Bitcoin?](https://datageeek.com/2024/10/07/exploratory-data-analysis-will-pce-data-push-bitcoin/)
 
@@ -28,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+* [A note about a bug in irr::kripp.alpha()](https://chainsawriot.com/postmannheim/2024/10/25/krippendoff.html)
 
 ### R in Organizations
 
@@ -83,7 +89,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Data Science Workflows in R: Tutorial Companion e-book](https://datasciworkflows.netlify.app/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
