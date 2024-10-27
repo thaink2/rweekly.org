@@ -14,23 +14,22 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 ### Highlight
 
++ [{sortable} card games in {shiny}](https://www.rostrum.blog/posts/2024-10-25-not-balatro/index.html)
 
+
++ [HTML Table to DataFrame Tool](https://web-apps.thecoatlessprofessor.com/data/html-table-to-dataframe-tool.html)
+
+
++ [Shiny Assistant: Prototype and build Shiny applications with the help of AI - Winston Chang - Posit ](https://www.youtube.com/watch?v=fJNKdwdVQ8Q)
 
 ### Insights
 
-
-+ [Postprocessing is coming to tidymodels](https://www.tidyverse.org/blog/2024/10/postprocessing-preview/)
-
-+ [Uncovering Unknowns: Data in Investigative Journalism](https://katharinabrunner.de/2024/10/uncovering-unknowns-data-in-investigative-journalism/)
 
 + [Winners of the 2024 Shiny Contest](https://posit.co/blog/winners-of-the-2024-shiny-contest/)
 
 + [Python for R users](https://blog.stephenturner.us/p/python-for-r-users)
 
 
-+ [Exploratory Data Analysis: Will PCE Data Push Bitcoin?](https://datageeek.com/2024/10/07/exploratory-data-analysis-will-pce-data-push-bitcoin/)
-
-+ [Uncovering Unknowns: Data in Investigative Journalism - All stories a based heavily in #rstats programming](https://katharinabrunner.de/2024/10/uncovering-unknowns-data-in-investigative-journalism/)
 
 + [Time Series Machine Learning: S&P 500](https://datageeek.com/2024/10/22/time-series-machine-learning-sp-500/)
 
@@ -40,9 +39,6 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [3 Lessons learned from 3 years of testing as an R developer](https://jakubsob.github.io/blog/3-lessons-learned-from-3-years-of-testing-as-r-developer/)
 + [{sortable} card games in {shiny}](https://www.rostrum.blog/posts/2024-10-25-not-balatro/index.html)
-
-+ [Tips for implementing custom features in Shiny](https://posit.co/blog/tips-for-implementing-custom-features-in-shiny/)
-
 
 
 ### R in the Real World
@@ -58,8 +54,7 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 ### Resources
 
-+ [HTML Table to DataFrame Tool
-](https://web-apps.thecoatlessprofessor.com/data/html-table-to-dataframe-tool.html)
++ [HTML Table to DataFrame Tool](https://web-apps.thecoatlessprofessor.com/data/html-table-to-dataframe-tool.html)
 
 ### New Packages
 
@@ -69,21 +64,36 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 **CRAN**
 
-
-
-**Bioconductor**
-
-
++ [{cpp11tesseract} 5.3.2](https://cran.r-project.org/package=cpp11tesseract): Open Source OCR Engine
++ [{flourishcharts} 1.0.0.3](https://cran.r-project.org/package=flourishcharts): 'Flourish' for 'R' and 'Python'
 
 **GitHub or Bitbucket**
 
-
++ [{isocubes}](https://github.com/coolbutuseless/isocubes)
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [drat 0.2.5 on CRAN: Small Updates](http://dirk.eddelbuettel.com/blog/2024/10/21#drat_0.2.5)
+
++ [{deeptime} 2.1.0](https://cran.r-project.org/package=deeptime): Plotting Tools for Anyone Working in Deep Time - [diffify](https://diffify.com/R/deeptime)
++ [{nonmemica} 1.0.11](https://cran.r-project.org/package=nonmemica): Create and Evaluate NONMEM Models in a Project Context - [diffify](https://diffify.com/R/nonmemica)
++ [{plater} 1.0.5](https://cran.r-project.org/package=plater): Read, Tidy, and Display Data from Microtiter Plates - [diffify](https://diffify.com/R/plater)
++ [{slider} 0.3.2](https://cran.r-project.org/package=slider): Sliding Window Functions - [diffify](https://diffify.com/R/slider)
++ [{finnts} 0.5.0](https://cran.r-project.org/package=finnts): Microsoft Finance Time Series Forecasting Framework - [diffify](https://diffify.com/R/finnts)
++ [{checked} 0.2.4](https://cran.r-project.org/package=checked): Systematically Run R CMD Checks - [diffify](https://diffify.com/R/checked)
++ [{ami} 0.2.0](https://cran.r-project.org/package=ami): Checks for Various Computing Environments - [diffify](https://diffify.com/R/ami)
++ [{handwriter} 3.2.1](https://cran.r-project.org/package=handwriter): Handwriting Analysis in R - [diffify](https://diffify.com/R/handwriter)
++ [{rscorecard} 0.30.0](https://cran.r-project.org/package=rscorecard): A Method to Download Department of Education College Scorecard
+Data - [diffify](https://diffify.com/R/rscorecard)
++ [{RandomWalker} 0.2.0](https://cran.r-project.org/package=RandomWalker): Generate Random Walks Compatible with the 'tidyverse' - [diffify](https://diffify.com/R/RandomWalker)
++ [{allcontributors} 0.2.2](https://cran.r-project.org/package=allcontributors): Acknowledge all Contributors to a Project - [diffify](https://diffify.com/R/allcontributors)
++ [{radiant.data} 1.6.7](https://cran.r-project.org/package=radiant.data): Data Menu for Radiant: Business Analytics using R and Shiny - [diffify](https://diffify.com/R/radiant.data)
++ [{logger} 0.4.0](https://cran.r-project.org/package=logger): A Lightweight, Modern and Flexible Logging Utility - [diffify](https://diffify.com/R/logger)
++ [{lzstring} 0.1.3](https://cran.r-project.org/package=lzstring): Wrapper for 'lz-string' 'C++' Library - [diffify](https://diffify.com/R/lzstring)
++ [{dtrackr} 0.4.6](https://cran.r-project.org/package=dtrackr): Track your Data Pipelines - [diffify](https://diffify.com/R/dtrackr)
++ [{git2r} 0.35.0](https://cran.r-project.org/package=git2r): Provides Access to Git Repositories - [diffify](https://diffify.com/R/git2r)
 
 
 ### Videos and Podcasts
@@ -116,11 +126,7 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [Comparison of spatial patterns in continuous raster data for arbitrary regions using R](https://jakubnowosad.com/posts/2024-10-27-spatcomp-bp3/)
 
-+ [Comparison of spatial patterns in continuous raster data for overlapping regions using R](https://jakubnowosad.com/posts/2024-10-20-spatcomp-bp2/)
-
 + [Sentiment Analysis in R](https://www.codingthepast.com/2024/10/21/Sentiment-analysis-in-R.html)
-
-+ [Mastering Linux Terminal: Clear and History Commands for Beginners](https://www.spsanderson.com/steveondata/posts/2024-10-25/)
 
 + [Enhancing Time Series Analysis: RandomWalker 0.2.0 Release](https://www.spsanderson.com/steveondata/posts/2024-10-24/)
 + [How to Loop Through List in R with Base R and purrr: A Comprehensive Guide for Beginners](https://www.spsanderson.com/steveondata/posts/2024-10-22/)
