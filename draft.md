@@ -47,6 +47,8 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [Posit’s Hadley Wickham honored with the 2025 ASA Award for Statistical Computing and Graphics](https://posit.co/blog/hadley-wickham-honored-with-the-2025-asa-award-for-statistical-computing-and-graphics/)
 
++ [SpendDash: a free online dashboard that allows you to keep track of your spending habits over time](https://rpubs.com/mkranj/SP)
+
 ### R in Organizations
 
 + [Introducing sdtm.oak](https://pharmaverse.github.io/blog/posts/2024-10-24_introducing.../introducing_sdtm.oak.html)
