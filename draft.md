@@ -85,6 +85,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+ - Announcing [R Dev Day @ LatinR 2024](https://latinr.org/en/cronograma/r-dev-day/rdevday-en.html): online, Monday 18 and Tuesday 19 November, 5:30pm - 8pm (UTC-3). Join us to work on contributions to the code, documentation and translations in base R. Free and open registration, deadline **Saturday 16 Nov**.
+
 ### Call for Participation
 
 ### Upcoming Events in 3 Months
