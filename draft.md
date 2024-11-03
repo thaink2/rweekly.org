@@ -24,6 +24,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
++ [SpendDash: a free online dashboard that allows you to keep track of your spending habits over time](https://rpubs.com/mkranj/SP)
+
 ### R in Organizations
 
 
