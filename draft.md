@@ -24,6 +24,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
++ [SpendDash: a free online dashboard that allows you to keep track of your spending habits over time](https://rpubs.com/mkranj/SP)
+
 ### R in Organizations
 
 
@@ -34,7 +36,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [Talk recordings and workshop materials from posit::conf(2024)](https://posit.co/blog/talks-and-workshops-from-posit-conf-2024/)
 
 ### New Packages
 
@@ -44,6 +46,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{favawesome} 0.1.1](https://favawesome.shinyworks.org/): Use Font Awesome Icons as Shiny favicons
 
 
 **Bioconductor**
@@ -51,7 +54,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **GitHub or Bitbucket**
-
 
 
 ### Updated Packages
@@ -84,6 +86,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
+Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+ - Announcing [R Dev Day @ LatinR 2024](https://latinr.org/en/cronograma/r-dev-day/rdevday-en.html): online, Monday 18 and Tuesday 19 November, 5:30pm - 8pm (UTC-3). Join us to work on contributions to the code, documentation and translations in base R. Free and open registration, deadline **Saturday 16 Nov**.
+
+   ![Participants sitting around a desk with their laptops at an R Dev Day, turning to smile at the camera. The group appears to be predominantly women of multiple nationalities and one of the group may be recognised as the well-known R developer, Hadley Wickham.](https://raw.githubusercontent.com/rweekly/image/master/2024/W45/PXL_20240712_115920989_600.jpg)
 
 ### Call for Participation
 
