@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [August 2024: Top 40 New CRAN Packages](https://rworks.dev/posts/august-2024-top-40-new-cran-packages/)
 
 ### R in the Real World
 
