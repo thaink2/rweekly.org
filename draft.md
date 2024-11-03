@@ -46,6 +46,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{favawesome} 0.1.1](https://favawesome.shinyworks.org/): Use Font Awesome Icons as Shiny favicons
 
 
 **Bioconductor**
@@ -53,7 +54,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **GitHub or Bitbucket**
-
 
 
 ### Updated Packages
