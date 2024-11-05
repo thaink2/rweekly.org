@@ -13,6 +13,11 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 ### Highlight
 
++ [Talk recordings and workshop materials from posit::conf(2024)](https://posit.co/blog/talks-and-workshops-from-posit-conf-2024/)
+
++ [3MW (Automate Anything With R & GitHub Actions)](https://3mw.albert-rapp.de/p/automate-anything-with-r-github-actions)
+
++ [Parameterized plots and reports with R and Quarto](https://nrennie.rbind.io/blog/parameterized-plots-reports-r-quarto/)
 
 
 ### Insights
@@ -24,10 +29,6 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 + [Shiny Gatherings x Pharmaverse: Building Clinical Data Analysis Apps with {teal} ](https://www.appsilon.com/post/building-clinical-data-analysis-apps-with-teal)
 
 + [SpendDash: a free online dashboard that allows you to keep track of your spending habits over time](https://rpubs.com/mkranj/SP)
-
-### R in Organizations
-
-
 
 ### R in Academia
 
@@ -51,54 +52,41 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 **CRAN**
 
 + [Rcpp 1.0.13-1 on CRAN: Hot Fix](http://dirk.eddelbuettel.com/blog/2024/11/02#rcpp_1.0.13-1)
+  
 + [gcbd 0.2.7 on CRAN: More Mere Maintenance](http://dirk.eddelbuettel.com/blog/2024/10/29#gcbd_0.2.7)
 
 + [Tapyr 0.2 Update: Package Management with uv and Shiny for Python Testing API](https://www.appsilon.com/post/tapyr-0-2-release)
 
 + [{favawesome} 0.1.1](https://favawesome.shinyworks.org/): Use Font Awesome Icons as Shiny favicons
 
-+ [{trtswitch} 0.1.1](https://cran.r-project.org/package=trtswitch): Treatment Switching
 + [{surveydown} 0.4.0](https://cran.r-project.org/package=surveydown): Markdown-Based Surveys Using 'Quarto' and 'shiny'
-+ [{StabilityApp} 0.1.0](https://cran.r-project.org/package=StabilityApp): Stability Analysis App for GEI in Multi-Environment Trials
-+ [{srppp} 1.0.1](https://cran.r-project.org/package=srppp): Read the Swiss Register of Plant Protection Products
-+ [{SensIAT} 0.1.0](https://cran.r-project.org/package=SensIAT): Sensitivity Analysis for Irregular Assessment Times
+  
 + [{rcollectadhd} 0.8](https://cran.r-project.org/package=rcollectadhd): Collection of Data Sets Containing ADHD Related Data
-+ [{poth} 0.2-0](https://cran.r-project.org/package=poth): Precision of Treatment Hierarchy (POTH)
-+ [{OPSR} 0.1.2](https://cran.r-project.org/package=OPSR): Ordinal Probit Switching Regression
+
 + [{legendry} 0.1.0](https://cran.r-project.org/package=legendry): Extended Legends and Axes for 'ggplot2'
-+ [{gofIG} 1.0](https://cran.r-project.org/package=gofIG): Goodness-of-Fit Tests for the Inverse Gaussian Distribution
-+ [{favawesome} 0.1.1](https://cran.r-project.org/package=favawesome): 'Font Awesome' Icons as 'shiny' 'favicons'
+      
 + [{CADF} 0.1](https://cran.r-project.org/package=CADF): Customer Analytics Data Formatting
+  
 + [{vchartr} 0.1.3](https://cran.r-project.org/package=vchartr): Interactive Charts with the 'JavaScript' 'VChart' Library
-+ [{SudokuDesigns} 1.0.0](https://cran.r-project.org/package=SudokuDesigns): Sudoku as an Experimental Design
+  
 + [{mapindiatools} 1.0.1](https://cran.r-project.org/package=mapindiatools): Mapping Data for 'mapindia' Package
-+ [{Largevars} 1.0.2](https://cran.r-project.org/package=Largevars): Testing Large VARs for the Presence of Cointegration
-+ [{ip2locationio} 1.0.0](https://cran.r-project.org/package=ip2locationio): Lookup Geolocation and Proxy Information using 'IP2Location.io'
-API
+  
 + [{dsTidyverseClient} 1.0.0](https://cran.r-project.org/package=dsTidyverseClient): 'DataSHIELD' 'Tidyverse' Clientside Package
-+ [{dawaR} 0.2.3](https://cran.r-project.org/package=dawaR): An API Wrapper for 'DAWA' - 'The Danish Address Web API'
+  
 + [{BSTZINB} 1.0.1](https://cran.r-project.org/package=BSTZINB): Association Among Disease Counts and Socio-Environmental Factors
-+ [{PublicWorksFinanceIT} 0.3.0](https://cran.r-project.org/package=PublicWorksFinanceIT): Soil Defense Investments in Italy: Data Retrieval, Analysis,
-Visualization
+
 + [{redatamx} 1.0.0](https://cran.r-project.org/package=redatamx): R Interface to 'Redatam' Library
-+ [{mxcc} 0.0.1](https://cran.r-project.org/package=mxcc): Maxwell Control Charts
+
 + [{TMTI} 1.0.3](https://cran.r-project.org/package=TMTI): Too Many, Too Improbable (TMTI) Test Procedures
-+ [{dhis2r} 0.2.0](https://cran.r-project.org/package=dhis2r): Client for the 'DHIS2' Web API
+  
 + [{tapLock} 0.2.0](https://cran.r-project.org/package=tapLock): Seamless Single Sign-on for 'shiny'
+  
 + [{ShinyWizard} 1.1.3.11](https://cran.r-project.org/package=ShinyWizard): An Interactive Wizard to Design, Build, and Deploy R Packages
 Demo Presentation
-+ [{ProTrackR2} 0.0.4](https://cran.r-project.org/package=ProTrackR2): Manipulate and Play 'ProTracker' Modules
-+ [{primarycensored} 1.0.0](https://cran.r-project.org/package=primarycensored): Primary Event Censored Distributions
+
 + [{picohdr} 0.1.1](https://cran.r-project.org/package=picohdr): Read, Write and Manipulate High Dynamic Range Images
-+ [{monad} 0.1.1](https://cran.r-project.org/package=monad): Operators and Generics for Monads
-+ [{icmstate} 0.1.0](https://cran.r-project.org/package=icmstate): Interval Censored Multi-State Models
+
 + [{ggpca} 0.1.2](https://cran.r-project.org/package=ggpca): Publication-Ready PCA, t-SNE, and UMAP Plots
-+ [{fastdid} 1.0.2](https://cran.r-project.org/package=fastdid): Fast Staggered Difference-in-Difference Estimators
-+ [{eyetools} 0.7.2](https://cran.r-project.org/package=eyetools): Analyse Eye Data
-+ [{enderecobr} 0.2.0](https://cran.r-project.org/package=enderecobr): Padronizador de Endereços Brasileiros (Brazilian Addresses
-Standardizer)
-+ [{classicaltest} 0.7.0](https://cran.r-project.org/package=classicaltest): Classical Test Theory (CTT) Analysis
-+ [{bfpwr} 0.1.3](https://cran.r-project.org/package=bfpwr): Power and Sample Size Calculations for Bayes Factor Analysis
 
 **Bioconductor**
 
@@ -351,16 +339,25 @@ Regression Model - [diffify](https://diffify.com/R/crrstep)
 + [Vetiver: Monitoring Models in Production](https://www.jumpingrivers.com/blog/vetiver-monitoring-mlops-deployment/)
 
 + [Predictive scenarios simulation in R, Python and Excel using Techtonique API](https://thierrymoudiki.github.io/blog/2024/11/03/python/r/techtonique/scenario-simulations-techtonique)
+
 + [Delimiting the modelling background for scattered uneven occurrence data](https://modtools.wordpress.com/2024/10/31/delimiting-the-modelling-background-for-scattered-uneven-occurrence-data/)
+
 + [Street names: Day 2 of 30DayMapChallenge. Trying to find the genders in Lyon street names](https://r.iresmi.net/posts/2024/street_names/)
+
 + [Lidar: Day 1 of 30DayMapChallenge. Playing with points](https://r.iresmi.net/posts/2024/lidar/)
 
 + [Parameterized plots and reports with R and Quarto](https://nrennie.rbind.io/blog/parameterized-plots-reports-r-quarto/)
+
 + [How to Use ‘OR’ Operator in R: A Comprehensive Guide for Beginners](https://www.spsanderson.com/steveondata/posts/2024-10-31/)
+
 + [The Ultimate Guide to Creating Lists in R: From Basics to Advanced Examples](https://www.spsanderson.com/steveondata/posts/2024-10-29/)
+
 + [How to Iterate Over Rows of Data Frame in R: A Complete Guide for Beginners](https://www.spsanderson.com/steveondata/posts/2024-10-28/)
+
 + [Reading in multiple files without loops](https://drmowinckels.io/blog/2024/lapply-files/)
+
 + [3MW (Automate Anything With R & GitHub Actions)](https://3mw.albert-rapp.de/p/automate-anything-with-r-github-actions)
+ 
 + [Connecting R to Postgres: From Database Creation to Data Manipulation and Charts](https://www.appsilon.com/post/connecting-r-to-postgres)
 
 
