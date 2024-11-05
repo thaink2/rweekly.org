@@ -214,7 +214,12 @@ Events in 3 Months:
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
-### rtistry
+### artistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today&#39;s artwork generated with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> and <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a>: <a href="https://t.co/9UMkxbcpnA">pic.twitter.com/9UMkxbcpnA</a></p>&mdash; aRtsy package (@aRtsy_package) <a href="https://twitter.com/aRtsy_package/status/1853694855949472104?ref_src=twsrc%5Etfw">November 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Image of Mexicali, Mexico created in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> using data from <a href="https://twitter.com/hashtag/OpenStreetMap?src=hash&amp;ref_src=twsrc%5Etfw">#OpenStreetMap</a>. <a href="https://t.co/7epnCkTPlp">pic.twitter.com/7epnCkTPlp</a></p>&mdash; R City Views (@rcityviews) <a href="https://twitter.com/rcityviews/status/1852911843125109207?ref_src=twsrc%5Etfw">November 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Quotes of the Week
+
+
