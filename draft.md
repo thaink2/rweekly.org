@@ -5,7 +5,6 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq.netlify.app/), with help from the R Weekly team members and contributors.
@@ -28,11 +27,16 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [Shiny Gatherings x Pharmaverse: Building Clinical Data Analysis Apps with {teal} ](https://www.appsilon.com/post/building-clinical-data-analysis-apps-with-teal)
 
+![Screenshot 2024-11-05 at 12 55 05](https://github.com/user-attachments/assets/d1d9cd5c-473a-4b41-ad28-75aa10e97885)
+
 + [SpendDash: a free online dashboard that allows you to keep track of your spending habits over time](https://rpubs.com/mkranj/SP)
+
 
 ### R in Academia
 
 + [Comparison of spatial patterns in categorical raster data for overlapping regions using R](https://jakubnowosad.com/posts/2024-11-03-spatcomp-bp4/)
+  
+![Screenshot 2024-11-05 at 12 58 04](https://github.com/user-attachments/assets/f0c83cf8-6d6b-49d6-8ca1-8d7865635280)
 
 
 ### Resources
@@ -73,26 +77,21 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
   
 + [{dsTidyverseClient} 1.0.0](https://cran.r-project.org/package=dsTidyverseClient): 'DataSHIELD' 'Tidyverse' Clientside Package
   
++ [{picohdr} 0.1.1](https://cran.r-project.org/package=picohdr): Read, Write and Manipulate High Dynamic Range Images
+
++ [{ggpca} 0.1.2](https://cran.r-project.org/package=ggpca): Publication-Ready PCA, t-SNE, and UMAP Plots
+
+![Screenshot 2024-11-05 at 13 02 46](https://github.com/user-attachments/assets/439798c2-444f-41e6-a0ce-65f838e5e932)
+
 + [{BSTZINB} 1.0.1](https://cran.r-project.org/package=BSTZINB): Association Among Disease Counts and Socio-Environmental Factors
 
 + [{redatamx} 1.0.0](https://cran.r-project.org/package=redatamx): R Interface to 'Redatam' Library
 
 + [{TMTI} 1.0.3](https://cran.r-project.org/package=TMTI): Too Many, Too Improbable (TMTI) Test Procedures
-  
+
 + [{tapLock} 0.2.0](https://cran.r-project.org/package=tapLock): Seamless Single Sign-on for 'shiny'
   
-+ [{ShinyWizard} 1.1.3.11](https://cran.r-project.org/package=ShinyWizard): An Interactive Wizard to Design, Build, and Deploy R Packages
-Demo Presentation
-
-+ [{picohdr} 0.1.1](https://cran.r-project.org/package=picohdr): Read, Write and Manipulate High Dynamic Range Images
-
-+ [{ggpca} 0.1.2](https://cran.r-project.org/package=ggpca): Publication-Ready PCA, t-SNE, and UMAP Plots
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
++ [{ShinyWizard} 1.1.3.11](https://cran.r-project.org/package=ShinyWizard): An Interactive Wizard to Design, Build, and Deploy R Packages Demo Presentation
 
 
 ### Updated Packages
@@ -114,7 +113,7 @@ Demo Presentation
 + [{basemaps} 0.0.8](https://cran.r-project.org/package=basemaps): Accessing Spatial Basemaps in R - [diffify](https://diffify.com/R/basemaps)
   
 + [{mapgl} 0.1.4](https://cran.r-project.org/package=mapgl): Interactive Maps with 'Mapbox GL JS' and 'MapLibre GL JS' - [diffify](https://diffify.com/R/mapgl)
-  
+
 + [{priorsense} 1.0.4](https://cran.r-project.org/package=priorsense): Prior Diagnostics and Sensitivity Analysis - [diffify](https://diffify.com/R/priorsense)
   
 + [{gitignore} 0.1.8](https://cran.r-project.org/package=gitignore): Create Useful .gitignore Files for your Project - [diffify](https://diffify.com/R/gitignore)
@@ -135,10 +134,13 @@ Demo Presentation
 
 + [{bio3d} 2.4-5](https://cran.r-project.org/package=bio3d): Biological Structure Analysis - [diffify](https://diffify.com/R/bio3d)
 
-+ [{manynet} 1.3.1](https://cran.r-project.org/package=manynet): Many Ways to Make, Modify, Map, Mark, and Measure Myriad
-Networks - [diffify](https://diffify.com/R/manynet)
+![Screenshot 2024-11-05 at 13 13 32](https://github.com/user-attachments/assets/ccf8df03-9fb9-40ca-9d50-d1bfcd680249)
+
++ [{manynet} 1.3.1](https://cran.r-project.org/package=manynet): Many Ways to Make, Modify, Map, Mark, and Measure Myriad Networks - [diffify](https://diffify.com/R/manynet)
 
 + [{ggseqplot} 0.8.5](https://cran.r-project.org/package=ggseqplot): Render Sequence Plots using 'ggplot2' - [diffify](https://diffify.com/R/ggseqplot)
+
+![Screenshot 2024-11-05 at 13 15 33](https://github.com/user-attachments/assets/1c401c0f-783d-42bc-b5f1-af36e3b34403)
 
 + [{RcmdrPlugin.DoE} 0.12-6](https://cran.r-project.org/package=RcmdrPlugin.DoE): R Commander Plugin for (Industrial) Design of Experiments - [diffify](https://diffify.com/R/RcmdrPlugin.DoE)
 
@@ -157,7 +159,6 @@ Networks - [diffify](https://diffify.com/R/manynet)
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
-
 
 ### Tutorials
 
