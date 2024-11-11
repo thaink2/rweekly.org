@@ -52,6 +52,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [{newplaces}](https://github.com/aTnT/newplaces): R-wrapper package to the Google Places API (New)
++ [{plumber-nextjs-app}](https://github.com/aTnT/plumber-nextjs-app): A demo Next.js app that interacts with an R Plumber backend
 
 
 ### Updated Packages
