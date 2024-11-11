@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+- [Guide to generating and rendering computational markdown content programmatically with Quarto](https://www.andrewheiss.com/blog/2024/11/04/render-generated-r-chunks-quarto/): Learn how to use `knitr::knit()` in inline chunks to correctly render auto-generated R and markdown content in Quarto documents
 
 ### R in Organizations
 
