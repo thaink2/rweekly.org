@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-- [Guide to generating and rendering computational markdown content programmatically with Quarto](https://www.andrewheiss.com/blog/2024/11/04/render-generated-r-chunks-quarto/): Learn how to use `knitr::knit()` in inline chunks to correctly render auto-generated R and markdown content in Quarto documents
+
 
 ### R in Organizations
 
@@ -35,9 +35,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Resources
 
 
-## Connect
-
-+ [R Work Opportunities](https://rworks.dev/posts/r-work-opportunities/)
 
 ### New Packages
 
@@ -55,8 +52,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-+ [{newplaces}](https://github.com/aTnT/newplaces): R-wrapper package to the Google Places API (New)
-+ [{plumber-nextjs-app}](https://github.com/aTnT/plumber-nextjs-app): A demo Next.js app that interacts with an R Plumber backend
 
 
 ### Updated Packages
@@ -104,6 +99,10 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
++ [December 3, 2024: ROpenSci - Social Coworking and Office Hours - Getting Involved in the Antarctic/Southern Ocean rOpenSci Community](https://ropensci.org/events/coworking-2024-12/)
+
++ [December 5, 2024: Introduction to generalized linear models in R workshop](https://r-posts.com/introduction-to-generalized-linear-models-in-r-workshop/)
+
 ### Grants & Funding
 
 
@@ -113,6 +112,10 @@ Events in 3 Months:
 ### Connect
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
+
++ [R Work Opportunities](https://vermillion-parfait-780f4f.netlify.app/posts/r-work-opportunities/)
+
++ [Bilingual [Japanese/English] Product Support Specialist (Zelus Analytics) - Remote](https://ats.rippling.com/teamworks-careers/jobs/46645c5a-b41b-4baa-95b1-dd9ffec6512d)
 
 ### rtistry
 
