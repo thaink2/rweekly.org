@@ -77,8 +77,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-+ [AI Transcription from R using Whisper: Part 3](https://affcom.ku.edu/posts/whisper2024c/)
++ [Manifold Learning](https://rworks.dev/posts/manifold-learning/)
 
++ [AI Transcription from R using Whisper: Part 3](https://affcom.ku.edu/posts/whisper2024c/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
