@@ -74,6 +74,8 @@ Percentile Ranks - [diffify](https://diffify.com/R/packageRank)
 
 + [{tabulapdf} 1.0.5-5](https://cran.r-project.org/package=tabulapdf): Extract Tables from PDF Documents - [diffify](https://diffify.com/R/tabulapdf)
 
++ [{osmapiR} 0.2.2](https://cran.r-project.org/package=osmapiR): Interface to OpenStreetMap API - [diffify](https://diffify.com/R/osmapiR)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
