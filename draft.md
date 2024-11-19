@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [You’ve Been Waiting for Native Mobile Apps with R? The Wait Is Over.](https://rtask.thinkr.fr/youve-been-waiting-for-native-mobile-apps-with-r-the-wait-is-over/)
 
 ### R in Organizations
 
