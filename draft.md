@@ -77,6 +77,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+[Mapping the Vendée Globe](https://jonathankitt.netlify.app/posts/2024-11-20-vendee-globe/)
+
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
