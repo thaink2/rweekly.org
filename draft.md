@@ -80,9 +80,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-[Mapping the Vendée Globe](https://jonathankitt.netlify.app/posts/2024-11-20-vendee-globe/)
++ [Mapping the Vendée Globe](https://jonathankitt.netlify.app/posts/2024-11-20-vendee-globe/)
 
-
++ [RStudio Addin 101 for beginners](https://jhk0530.medium.com/rstudio-addin-101-ed0e67503b57)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
