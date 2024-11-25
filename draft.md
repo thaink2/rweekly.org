@@ -18,6 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Expand your Bluesky network with R and the atrrr package](https://blog.stephenturner.us/p/expand-your-bluesky-network-with-r)
+
+![Expand your Bluesky network with R and the atrrr package](https://github.com/user-attachments/assets/66480b28-addf-4487-9586-dabd5eab0230)
 
 
 ### R in the Real World
