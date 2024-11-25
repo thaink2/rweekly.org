@@ -35,6 +35,8 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [Mapping the Vendée Globe](https://jonathankitt.netlify.app/posts/2024-11-20-vendee-globe/)
 
++ [Summarising Top 100 UK Climbs: Running Local Language Models with LM Studio and R](https://martinctc.github.io/blog/summarising-top-100-uk-climbs-running-local-language-models-with-lm-studio-and-r/) 
+
 ### R in Organizations
 
 + [Using LLM agents to review tutorials ‘in character’ as learners](https://epiverse-trace.github.io/posts/ai-learner-review/)
