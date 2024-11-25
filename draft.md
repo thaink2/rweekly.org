@@ -21,7 +21,7 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 ![Expand your Bluesky network with R and the atrrr package](https://github.com/user-attachments/assets/66480b28-addf-4487-9586-dabd5eab0230)
 
-+ [S7 & Options objects](https://josiahparry.com/posts/2024-11-21-s7-options-objects)
++ [S7 & Options objects - reimagining readr::read_csv()](https://josiahparry.com/posts/2024-11-21-s7-options-objects)
 
 + [3MW (5 Lessons For Getting Better At Programming)](https://3mw.albert-rapp.de/p/5-lessons-for-getting-better-at-programming)
 
@@ -29,7 +29,7 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 ### R in the Real World
 
-+ [https://rpubs.com/colebaril/spotify-wrapped](https://rpubs.com/colebaril/spotify-wrapped) - [code](https://github.com/colebaril/dataviz/blob/main/spotify-wrapped/Spotify_2024.Rmd)
++ [Spotify Wrapped: R and ggplot2 Edition](https://rpubs.com/colebaril/spotify-wrapped) - [code](https://github.com/colebaril/dataviz/blob/main/spotify-wrapped/Spotify_2024.Rmd)
 
 + [You’ve Been Waiting for Native Mobile Apps with R? The Wait Is Over.](https://rtask.thinkr.fr/youve-been-waiting-for-native-mobile-apps-with-r-the-wait-is-over/)
 
