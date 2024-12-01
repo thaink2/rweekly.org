@@ -18,7 +18,6 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ### Insights
 
-+ [MLOps made easy for R users](https://blog.thaink2.com/posts/mlops%20end%20to%20end%20part%2001/)
 + [These Languages are Accumulating](https://jcarroll.com.au/2024/11/28/these-languages-are-accumulating/)
 + [Simulating Ponzi schemes by @ellis2013nz](https://freerangestats.info/blog/2024/11/30/ponzi-schemes)
 + [Give Thanks with the allcontributors Package](https://ropensci.org/blog/2024/11/26/allcontributors/)
