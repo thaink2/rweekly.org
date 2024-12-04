@@ -20,9 +20,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [posit::glimpse() Newsletter – December 2024](https://posit.co/blog/posit-glimpse-newsletter-december-2024/)
 
++ [R-Universe Named R Consortium’s Newest Top Level Project](https://r-consortium.org/posts/r-universe-named-r-consortiums-newest-top-level-project/)
+
 ### R in the Real World
 
-
++ [Politely mapping recommended travel vaccines](https://hugogruson.fr/posts/travel-vaccinations/)
 
 ### R in Organizations
 
