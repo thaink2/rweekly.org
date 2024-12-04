@@ -81,6 +81,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Use meta shortcode variables with Quarto Includes to insert precise content](https://posit.co/blog/quarto-meta-shortcode-variables/)
 
++ [Posting to Bluesky from R](https://drmowinckels.io/blog/2024/bluesky/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
