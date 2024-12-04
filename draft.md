@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [posit::glimpse() Newsletter – December 2024](https://posit.co/blog/posit-glimpse-newsletter-december-2024/)
 
 ### R in the Real World
 
