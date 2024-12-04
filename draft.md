@@ -115,3 +115,6 @@ Events in 3 Months:
 
 
 ### Quotes of the Week
+
++ https://bsky.app/profile/ramikrispin.bsky.social/post/3lce6aqdlik25
+
