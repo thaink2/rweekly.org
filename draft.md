@@ -71,7 +71,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [targetsboard - A GUI to {targets}](https://github.com/Athospd/targetsboard)
 
 ### R Internationally
 
