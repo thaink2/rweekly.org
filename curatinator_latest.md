@@ -32,6 +32,9 @@
 + [Advent of Code with data.table: Week One](https://rdatatable-community.github.io/The-Raft/posts/2024-12-07-advent_of_code-kelly_bodwin/)
 + [Bachet’s Four Weights Problem](https://rworks.dev/posts/four-weights/)
 # CRANberries UPDATED: ##
++ [{cubar} 1.1.0](https://cran.r-project.org/package=cubar): Codon Usage Bias Analysis - [diffify](https://diffify.com/R/cubar)
++ [{plotthis} 0.4.0](https://cran.r-project.org/package=plotthis): High-Level Plotting Built Upon 'ggplot2' and Other Plotting
+Packages - [diffify](https://diffify.com/R/plotthis)
 + [{tidyplate} 2.2.0](https://cran.r-project.org/package=tidyplate): Transform Microplate Data into Tibbles - [diffify](https://diffify.com/R/tidyplate)
 + [{gmoTree} 1.3.1](https://cran.r-project.org/package=gmoTree): Get and Modify 'oTree' Data - [diffify](https://diffify.com/R/gmoTree)
 + [{XRSCC} 0.2](https://cran.r-project.org/package=XRSCC): Statistical Quality Control Simulation - [diffify](https://diffify.com/R/XRSCC)
@@ -263,8 +266,6 @@ Analysis - [diffify](https://diffify.com/R/Cyclops)
 + [{forestmangr} 0.9.8](https://cran.r-project.org/package=forestmangr): Forest Mensuration and Management - [diffify](https://diffify.com/R/forestmangr)
 + [{fastTS} 1.0.2](https://cran.r-project.org/package=fastTS): Fast Time Series Modeling for Seasonal Series with Exogenous
 Variables - [diffify](https://diffify.com/R/fastTS)
-+ [{rank} 0.1.1](https://cran.r-project.org/package=rank): Customisable Ranking of Numerical and Categorical Data - [diffify](https://diffify.com/R/rank)
-+ [{lightr} 1.8.0](https://cran.r-project.org/package=lightr): Read Spectrometric Data and Metadata - [diffify](https://diffify.com/R/lightr)
 # CRANberries NEW: ##
 + [{tablespan} 0.1.7](https://cran.r-project.org/package=tablespan): Create Satisficing 'Excel', 'HTML', 'LaTeX', and 'RTF' Tables
 using a Simple Formula
