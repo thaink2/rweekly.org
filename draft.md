@@ -20,7 +20,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Turn a GitHub repo into a single text file for LLM-friendly input, with R and Python packages as examples](https://blog.stephenturner.us/p/github-repo-to-text-for-llm-input)
 
-![gh2txt](https://github.com/user-attachments/assets/b2e3a85e-89eb-4feb-9293-18b726686100)
+![gh2txt-600](https://github.com/user-attachments/assets/4f940a19-205b-4948-bf65-248a552f4cf0)
+
 
 
 ### R in the Real World
