@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [Lime Bike Summary Stats Dashboard](https://jokasan.github.io/Lime_Dash/)
 
 ### R in Organizations
 
