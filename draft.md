@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Introducing Rlinguo, a native mobile app that runs R](https://rtask.thinkr.fr/introducing-rlinguo-a-native-mobile-app-that-runs-r/)
 
 
 ### R in the Real World
