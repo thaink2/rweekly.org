@@ -14,7 +14,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
++ [Use an LLM to translate help documentation on-the-fly](https://blog.stephenturner.us/p/llm-translate-documentation)
 
+![Use an LLM to translate help documentation on-the-fly](https://github.com/user-attachments/assets/a7d0a487-6300-41f8-98c0-3c2233dcd9db)
 
 ### Insights
 
